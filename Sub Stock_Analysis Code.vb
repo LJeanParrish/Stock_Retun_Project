@@ -160,7 +160,7 @@ Sub Stock_Analysis()
                         
             Else
 
-                ' Add to the Stock_Volume need to figure out correct equation
+                ' Add to the Stock_Volume 
 
                 Stock_Volume = (Stock_Volume + ws.Cells(i, 7).Value)
                                             
